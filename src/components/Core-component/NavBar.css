@@ -1,0 +1,46 @@
+h1 {
+  background-color: white;
+}
+
+i {
+  color:rgb(255, 242, 242);
+}
+
+.nav {
+  min-height: 80px;
+  background-color: #252929;
+}
+nav {
+  width: 100%;
+}
+
+.nav__header {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: flex-start;
+  height: 30px;
+}
+
+.nav__header-left a {
+  margin-top: 10px;
+  margin-left: 50px;
+  display: flex;
+  color: rgb(218, 208, 208);
+  font-size: 100px;
+  font-weight: bold;
+  align-items: flex-start;
+  text-decoration: rgb(243, 241, 241);
+}
+
+
+
+
+
+.nav__header-left a i {
+  color: rgb(241, 234, 234);
+  font-size: 80px;
+  margin-top: 5px;
+  margin-left: 5px;
+}

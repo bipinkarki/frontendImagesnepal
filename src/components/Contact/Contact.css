@@ -1,0 +1,21 @@
+.contact-heading {
+  width: 450px;
+  height: 55px;
+  text-align: center;
+  margin: 10px auto;
+  border: 2px solid rgba(0, 0, 0, 0.281);
+}
+
+.web-map {
+  margin-top: 20px;
+  margin: auto;
+}
+
+h1 {
+  margin: 0px;
+}
+
+.contact-info {
+  text-align: left;
+  margin-bottom: 40px;
+}

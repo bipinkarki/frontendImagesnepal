@@ -1,0 +1,31 @@
+.header-image {
+  height: 300px !important;
+}
+
+.card-container {
+  margin-top: -40px;
+  padding: 10px;
+  background-color: #84ceeb;
+  /* margin-bottom: 20px; */
+}
+
+.card-container h2{
+  margin-left: 450px;
+
+}
+.card-container img {
+  height: 250px;
+}
+
+.container {
+  margin-bottom: 20px;
+  margin-left: 250px;
+}
+
+.card-deck {
+  margin-left: 50px;
+}
+
+.feed {
+  margin-left: 500px;
+}
